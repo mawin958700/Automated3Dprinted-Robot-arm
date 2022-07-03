@@ -39,6 +39,7 @@ Step-by-step
 
 ## Reference
 This is an university project of KMUTNB, if you would to see more, please follow this [link](https://docs.google.com/presentation/d/1Mw36yceFtEsKYjv1unBCnHJhHHE-5-kh/edit?usp=sharing&ouid=118362273439661949509&rtpof=true&sd=true)
+
 Thank to these following list below, there are useful information and code I've implemented them for this project.
 1. [matterport/MASK-RCNN for instance segmentation](https://github.com/matterport/Mask_RCNN)
 2. [BCN3D-Moveo CAD/Manual step-by-step](https://github.com/BCN3D/BCN3D-Moveo)
