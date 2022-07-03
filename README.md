@@ -16,7 +16,7 @@ Note: this content include only overview/idea of the project. More detail will b
 2. C++
 
 `OS`
-1. Ubuntu 18.04+ / Windoow10+
+1. Ubuntu 18.04+ / Window10+
 
 ## Overview
 ![RobotArm1](./robot2.gif)
@@ -30,7 +30,6 @@ Step-by-step
 
 ## Reference
 Thank to these following list below, there are useful information and code I've implemented them for this project.
-1. [Control Parrot Anafi drone via python coding](https://github.com/Parrot-Developers/olympe)
-2. [Control dynamixel servo via python coding](https://github.com/ROBOTIS-GIT/DynamixelSDK)
-3. [Control rpi 4 gpio pin via python coding](https://www.ics.com/blog/control-raspberry-pi-gpio-pins-python)
-4. [Real VNC Server/Viewer for rpi 4](https://www.realvnc.com/en/connect/download/vnc/raspberrypi/)
+1. [matterport/MASK-RCNN for instance segmentation](https://github.com/matterport/Mask_RCNN)
+2. [BCN3D-Moveo CAD/Manual step-by-step](https://github.com/BCN3D/BCN3D-Moveo)
+3. [Opensource 3D CAD model gripper for robot arm](https://grabcad.com/library?page=2&time=all_time&sort=most_downloaded&tags=gripper)
