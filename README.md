@@ -1,5 +1,5 @@
 # Automated 3d printed robot arm for Pick & Place
-This project including of an implementation of Qi wireless charging and motor control to extend the charging area for drone landing and control drone and its station from far range via raspberry pi 4. Any device support to qi wireless charging can work as well.
+This project is an applying deep learning to robot arm for done some repetitive task extend the charging area for drone landing and control drone and its station from far range via raspberry pi 4. Any device support to qi wireless charging can work as well.
 
 Note: this content include only overview/idea of the project. More detail will be provided later.
 ## Requirements
