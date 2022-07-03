@@ -19,7 +19,7 @@ Note: this content include only overview/idea of the project. More detail will b
 1. Ubuntu 18.04+ / Windoow10+
 
 ## Overview
-In this project, I use Belkin TrueFreedom PRO as wireless charger attached to dynamixel ax12-a servo motor work together with USB Type C Qi receiver attached to the Parrot Anafi Drone's battery, and the drone power switch need to be able to command on/off button from far distance, so in this case, I use light to trigger power switch by large LDR that you have to make sure there will be no sunlight from ambient environment can trigger the LDR, even though most of drone can't turn off while in flight state. Anyway, LDR is not recommended for outdoor, other passive sensors is more reliable and safety.
+![RobotArm1](./robot2.gif)
 
 ![DroneCharger](./images/ov2.gif)
 
