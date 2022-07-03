@@ -33,6 +33,7 @@ Step-by-step
 ![RobotArm4](./img3.gif)
 
 4. Find world coordinate of target point.
+
 ![RobotArm5](./img3.png)
 
 ## Reference
