@@ -10,6 +10,7 @@ Note: this content include only overview/idea of the project. More detail will b
 1. BCN3D Moveo 3D printed robot arm
 2. Arduino Mega 2560
 3. Dynamixel servo motor (for gripper)
+4. Intel Realsense depth camera D435
 
 `Language`
 1. Python
@@ -22,11 +23,13 @@ Note: this content include only overview/idea of the project. More detail will b
 ![RobotArm1](./robot2.gif)
 Step-by-step
 1. Limit the workspace for its safety. In this case, AruCo marker was applied
-![RobotArm1](./img1.png)
+![RobotArm2](./img1.png)
 2. Classification by MASK-RCNN
-![RobotArm1](./img2.png)
+![RobotArm3](./img2.png)
 3. Use image processing techniques to find the target point that be able to pick it up, no obstacles around.
-![RobotArm1](./img3.gif)
+![RobotArm4](./img3.gif)
+3. Find world coordinate of target point.
+![RobotArm5](./img3.png)
 
 ## Reference
 Thank to these following list below, there are useful information and code I've implemented them for this project.
