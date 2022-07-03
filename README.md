@@ -3,7 +3,7 @@ This project is an applying of deep learning to robot arm for done some repetiti
 
 Note: this content include only overview/idea of the project. More detail will be provided later.
 
-![RobotArm1](./images/robot1.gif)
+![RobotArm1](./robot1.gif)
 
 ## Requirements
 `Hardware`
