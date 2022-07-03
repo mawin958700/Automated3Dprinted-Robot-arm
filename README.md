@@ -2,6 +2,9 @@
 This project is an applying of deep learning to robot arm for done some repetitive task. Fortunately, there is an Very cool! opensource 3d pritned robot arm and deep learning model called "MASK-RCNN" will be use in this case.
 
 Note: this content include only overview/idea of the project. More detail will be provided later.
+
+![RobotArm1](./images/robot1.gif)
+
 ## Requirements
 `Hardware`
 1. BCN3D Moveo 3D printed robot arm
