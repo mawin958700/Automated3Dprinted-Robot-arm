@@ -23,7 +23,7 @@ Note: this content include only overview/idea of the project. More detail will b
 ![RobotArm1](./robot2.gif)
 
 Step-by-step
-1. Limit the workspace for its safety. In this case, AruCo marker was applied
+1. Limit the workspace for safety and accuracy. In this case, AruCo marker was applied
 ![RobotArm2](./img1.png)
 2. Classification by MASK-RCNN
 ![RobotArm3](./img2.png)
