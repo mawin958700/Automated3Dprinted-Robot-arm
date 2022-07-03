@@ -9,8 +9,11 @@ Note: this content include only overview/idea of the project. More detail will b
 `Hardware`
 1. BCN3D Moveo 3D printed robot arm
 2. Arduino Mega 2560
-3. Ne
-4. DC motor (stepper, servo, etc.)
+3. Dynamixel servo motor (for gripper)
+
+`Language`
+1. Python
+2. C++
 
 `OS`
 1. Ubuntu 18.04+ / Windoow10+
