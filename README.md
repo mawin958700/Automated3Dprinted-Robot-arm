@@ -23,7 +23,7 @@ Note: this content include only overview/idea of the project. More detail will b
 ![RobotArm1](./robot2.gif)
 `Note: To control robot arm movement, forward / inverse kinematics are required`
 
-`Step-by-step`
+Step-by-step
 1. Limit the workspace for safety and accuracy. In this case, AruCo marker was applied
 ![RobotArm2](./img1.png)
 
