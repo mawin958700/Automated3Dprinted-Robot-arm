@@ -25,11 +25,14 @@ Note: this content include only overview/idea of the project. More detail will b
 Step-by-step
 1. Limit the workspace for safety and accuracy. In this case, AruCo marker was applied
 ![RobotArm2](./img1.png)
+
 2. Classification by MASK-RCNN
 ![RobotArm3](./img2.png)
+
 3. Use image processing techniques to find the target point that be able to pick it up, no obstacles around.
 ![RobotArm4](./img3.gif)
-3. Find world coordinate of target point.
+
+4. Find world coordinate of target point.
 ![RobotArm5](./img3.png)
 
 ## Reference
