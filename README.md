@@ -20,13 +20,13 @@ Note: this content include only overview/idea of the project. More detail will b
 
 ## Overview
 ![RobotArm1](./robot2.gif)
-
-![DroneCharger](./images/ov2.gif)
-
-To remote control the drone or its base station from far distance, you can remote access to rpi 4 and send keyboard input as control command via VNC server to control the drone, but there will be a bit of latency.
-
-![DroneRpiVNC](./images/ov3.gif)
-
+Step-by-step
+1. Limit the workspace for its safety. In this case, AruCo marker was applied
+![RobotArm1](./img1.png)
+2. Classification by MASK-RCNN
+![RobotArm1](./img2.png)
+3. Use image processing techniques to find the target point that be able to pick it up, no obstacles around.
+![RobotArm1](./img3.gif)
 
 ## Reference
 Thank to these following list below, there are useful information and code I've implemented them for this project.
